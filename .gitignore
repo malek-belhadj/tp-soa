@@ -1,0 +1,21 @@
+# Build
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# OS / Office
+.DS_Store
+Thumbs.db
+~$*
