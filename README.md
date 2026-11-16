@@ -62,5 +62,3 @@ Endpoints : `POST /api/employees`, `GET /api/employees`, `PUT /api/employees/{id
   </soapenv:Body>
 </soapenv:Envelope>
 ```
-
-Étudiants disponibles : Sajal, Kajal, Lokesh, Sukesh.
